@@ -7,11 +7,11 @@ sqlmap是一个开源的渗透测试工具，可以自动检测和利用SQL注�
 截图
 ----
 
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/images/1.png/)
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/images/2.png/)
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/images/3.png/)
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/images/4.png/)
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/images/5.png/)
+!https://github.com/kil-x/SQLMapCn-Gui/images/1.png
+!https://github.com/kil-x/SQLMapCn-Gui/images/2.png
+!https://github.com/kil-x/SQLMapCn-Gui/images/3.png
+!https://github.com/kil-x/SQLMapCn-Gui/images/4.png
+!https://github.com/kil-x/SQLMapCn-Gui/images/5.png
 
 ----
 
