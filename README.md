@@ -1,4 +1,4 @@
-# sqlmap
+# SQLMapCn-Gui
 
 
 sqlmap是一个开源的渗透测试工具，可以自动检测和利用SQL注入漏洞并接管数据库服务器。 
