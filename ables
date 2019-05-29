@@ -1,0 +1,183 @@
+HTTP request [#1]:
+GET /detail.php?id=265 HTTP/1.1
+Accept-language: en-us,en;q=0.5
+Accept-encoding: gzip,deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-agent: sqlmap/1.0.6.47#dev (http://sqlmap.org)
+Accept-charset: ISO-8859-15,utf-8;q=0.7,*;q=0.7
+Host: www.zjafea.gov.cn
+Pragma: no-cache
+Cache-control: no-cache,no-store
+Connection: close
+
+HTTP response [#1] (200 OK):
+Content-encoding: gzip
+X-powered-by: PHP/5.2.17
+Transfer-encoding: chunked
+Set-cookie: PHPSESSID=62cb35a3dddf5e10fc7a98c14cb60d6b; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Vary: Accept-Encoding
+Uri: http://www.zjafea.gov.cn:80/detail.php?id=265
+Server: nginx
+Connection: close
+Pragma: no-cache
+Cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Date: Tue, 11 Oct 2016 07:52:28 GMT
+Content-type: text/html; charset=utf-8
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>杭州市外专局陪同省外专局领导走访慰问外国专家</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="Stylesheet" href="style/base.css" />
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+</head>
+<body>
+    <div id="top">
+    <img src="images/index_head_02.jpg" usemap="#index_01" alt="" style="border-style: none">
+    <map id="index_01" name="index_01">
+        <area shape="rect" coords="919,120,986,143" href="en_index.php" title="" />
+        <area shape="default" nohref="nohref" alt="" />
+    </map>
+</div>
+<div id="nav">
+    <ul>
+        <li><a href="index.php?index=home">
+            <img src="images/index111_02.png" id="imgnav1"></a></li>
+        <li><a href="agencyIntroduction.php" title="机构介绍">
+            <img src="images/index_03.jpg" id="imgnav2"></a></li>
+        <li><a href="HighendTalent.php" title="高端人才引进">
+            <img src="images/index_04.jpg" id="imgnav3"></a></li>
+        <li><a href="expertProjectManagement.php" title="专家项目管理">
+            <img src="images/index_05.jpg" id="imgnav4" ></a></li>
+        <li><a href="foreigTalentManagement.php" title="外籍人才管理">
+            <img src="images/index_06.jpg" id="imgnav5" style="width:135px;height:42px"></a></li>
+        <li><a href="overseasTrainingProgram.php" title="境外培训项目">
+            <img src="images/index_07.jpg" id="imgnav6" ></a></li>
+        <li><a href="http://www.zjhrss.gov.cn/" target="_blank">
+            <img src="images/index_08.jpg"></a></li>
+        <li><a href="zhejiangLifeGuide.php" title="浙江生活指南">
+            <img src="images/index_09.jpg" id="imgnav7" style="width:120px;height:42px"></a></li>
+    </ul>
+</div>    <div id="div_location">
+        <div id="nav_location">
+            当前位置：<span style="color: #a42010">首页</span>-新闻动态</div>
+    </div>
+    <div id="content">
+        <div id="div_bg">
+            <div id="content_title">
+                杭州市外专局陪同省外专局领导走访慰问外国专家</div>
+            <div id="content_line">
+            </div>
+            <div id="content_remark">
+                日期: 2016-10-05\xa0\xa0\xa0来源： 杭州外专局\xa0\xa0\xa0浏览次数：
+                10875\xa0\xa0\xa0 视力保护色：<input name="bgcolor" width="13" height="13"
+                    align="absmiddle" onclick="ChangeColor('#F9F6AF')" type="image" src="images/110827103140057.gif">
+                <input name="bgcolor22" width="13" height="13" align="absmiddle" onclick="ChangeColor('#9DDBF4')"
+                    type="image" src="images/110827103140099.gif">
+                <input name="bgcolor2" width="13" height="13" align="absmiddle" onclick="ChangeColor('#DEDEDE')"
+                    type="image" src="images/110827103140184.gif">
+                <input name="bgcolor2" width="13" height="13" align="absmiddle" onclick="ChangeColor('#F9D1D9')"
+                    type="image" src="images/110827103140215.gif">
+                <input name="bgcolor2" width="13" height="13" align="absmiddle" onclick="ChangeColor('#E4C8F8')"
+                    type="image" src="images/110827103140245.gif">
+                <input name="bgcolor2" width="13" height="13" align="absmiddle" onclick="ChangeColor('#FFFFFF')"
+                    type="image" src="images/110827103140292.gif">
+            </div>
+            <div id="content_con">
+                <p style='text-align:center;text-indent:2em;'>
+	<img src='/kindeditor/attached/image/20161008/20161008150446_61347.png' alt='' /> 
+</p>
+<p style='text-indent:2em;'>
+	<span style='font-size:16px;'>今年是浙江省政府设立“西湖友谊奖”20周年，为营造良好引才引智氛围，充分激发外国专家在浙创新创业的积极性，省外国专家局决定在全省范围内对长期为浙江工作服务的外国专家开展一次集中走访慰问活动。</span> 
+</p>
+<p style='text-indent:2em;'>
+	<span style='font-size:16px;'>近日，省外专局厉勇局长和张红卫副局长在杭州市外专局傅立副局长的陪同下，来到位于杭州萧山区的万向集团公司看望慰问了美籍专家马尔科姆·塔尔博特·麦金托什先生。</span> 
+</p>
+<p style='text-indent:2em;'>
+	<span style='font-size:16px;'>马尔科姆年逾65岁，具有30多年工作经验，曾先后就职于美国Cummins公司、ATC公司。他曾经是万向美国公司的客户，自2007年3月起担任万向集团公司高级质量工程师。回忆起当年的情形，马尔科姆动情地说：“当时他对妻子说计划来中国工作3年。来中国后发现公司的领导、同事以及接触到的中国人都是那么的热情、友好，于是他的计划从3年变成了6年，一晃间又从6年变成了10年。”前不久，他在萧山地铁站遇见几个迷路的中国人，还主动上前指路。望着他们一脸的诧异，马尔科姆笑着解释道自己常年住在这里。他把自己的晚年深深地溶入了萧山，奉献给了万向。</span> 
+</p>
+<p style='text-align:center;'>
+	<img src='/kindeditor/attached/image/20161008/20161008150501_84674.png' alt='' /> 
+</p>
+<p style='text-indent:2em;'>
+	<span style='font-size:16px;'>马尔科姆在万向集团工作期间，主要负责重点出口配套项目的项目管理、质量管理、技术引进、人才培养等方面的工作。近10年来，他全身心地投入到了万向的国际化进程中，在项目管理、质量管理、技术引进、人才培养等方面做了大量的基础性工作，为万向搭建“中国投资、美国运营、全球市场、创新技术、提升整体”的国际化平台和实施接轨国际主流市场、接轨国际先进技术、接轨国际资源的国际化战略做出了积极的贡献，加速了万向的全面国际化进程。2009年他被授予浙江省政府“西湖友谊奖”，2014年被授予“中国政府友谊奖”。</span> 
+</p>
+<p style='text-align:center;'>
+	<img src='/kindeditor/attached/image/20161008/20161008150508_55255.png' alt='' /> 
+</p>
+<p style='text-indent:2em;'>
+	<span style='font-size:16px;'>在与万向集团负责人和马尔科姆交流座谈时，厉局长首先对马尔科姆长期为企业所作的贡献表示衷心感谢。他强调，当前我省引智工作呈现出三个可喜的变化和趋势之一，就是外国专家为浙工作由过去的短期为主向中长期服务发展，有的已长达20多年，这些专家为当地的社会经济发展做出了重要的贡献，马尔科姆就是其中的一个代表。当他得知万向集团累计有3名外国专家获得“中国政府友谊奖”，12名获得浙江省政府“西湖友谊奖”，2名获得杭州市政府“钱江友谊奖”时，给予了高度评价，称赞万向是我省乃至全国的引智企业典范，希望继续保持和发扬优秀的引智传统，为企业创新发展作出更大贡献，同时要求杭州市外专局一如既往地为外国专家和引智企业提供优质的服务。</span> 
+</p>
+<p style='text-indent:2em;'>
+	<br />
+</p>
+<p style='text-align:right;text-indent:2em;'>
+	<span style='font-size:16px;'>（杭州市外国专家局）</span> 
+</p>
+            </div>
+        </div>
+        <div id="content_tool">
+            <p>
+                <img src="images/jgjs_07.jpg" class="bshare-custom" onclick="share()" title="分享" />
+                <img src="images/jgjs_09.jpg" onclick="window.print()" title="打印" />
+                <img src="images/jgjs_11.jpg" onclick="window.close()" title="关闭" />
+            </p>
+            <div id="bshare" class="bshare-custom" style="display: none">
+                <a title="杭州市外专局陪同省外专局领导走访慰问外国专家" class="bshare-qzone"></a><a title="杭州市外专局陪同省外专局领导走访慰问外国专家"
+                    class="bshare-sinaminiblog"></a><a title="杭州市外专局陪同省外专局领导走访慰问外国专家" class="bshare-renren">
+                </a><a title="杭州市外专局陪同省外专局领导走访慰问外国专家" class="bshare-qqmb"></a><a title="杭州市外专局陪同省外专局领导走访慰问外国专家"
+                    class="bshare-neteasemb"></a><a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis">
+                    </a><span class="BSHARE_COUNT bshare-share-count">0</span></div>
+            <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&uuid=&pophcol=2&lang=zh"></script>
+            <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <script>
+        function ChangeColor(clo) {
+
+            document.getElementById("content_con").style.backgroundColor = clo;
+            document.getElementById("div_bg").style.backgroundColor = clo;
+            var h = document.getElementById("content_con").innerHTML;
+            h = h.replace(/background-color:#F9F6AF/g, "background-color:" + clo);
+            h = h.replace(/background-color:#9DDBF4/g, "background-color:" + clo);
+            h = h.replace(/background-color:#DEDEDE/g, "background-color:" + clo);
+            h = h.replace(/background-color:#F9D1D9/g, "background-color:" + clo);
+            h = h.replace(/background-color:#E4C8F8/g, "background-color:" + clo);
+            h = h.replace(/background-color:#FFFFFF/g, "background-color:" + clo);
+
+            document.getElementById("content_con").innerHTML = h;
+
+        }
+        function share() {
+            if (document.getElementById("bshare").style.display == "block")
+                document.getElementById("bshare").style.display = "none";
+            else
+                document.getElementById("bshare").style.display = "block";
+        }
+
+        function changeFontSize(s) {
+
+            document.getElementById("content_con").style.fontSize = s + "px";
+            $("#content_con").find("p").css("font-size", s + "px");
+            $("#content_con p").each(function (index) {
+                $(this).css("font-size", s + "px");
+
+
+            })
+
+
+        }
+    </script>
+      <div id="footer">
+    <div id="footer_copyright">版权所有：外国专家局</div>
+    <div id="footer_jy">建议采用IE6.0以上版本，1024*768分辨率</div>
+    <div id="footer_ico" onclick="window.open('http://bszs.conac.cn/sitename?method=show&id=25E6CEFD14950E6FE053012819ACE22D')"></div>
+    </div></body>
+</html>
+
+############################################################################
+
