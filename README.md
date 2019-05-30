@@ -7,11 +7,11 @@ SQLmap Command Builder基于sqlmap制作SQLMapCn-Gui，仅需填写目的地址�
 Screenshot
 ----
 
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/blob/master/images/1.png)
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/blob/master/images/2.png)
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/blob/master/images/3.png)
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/blob/master/images/4.png)
-![Screenshot](https://github.com/kil-x/SQLMapCn-Gui/blob/master/images/5.png)
+![Screenshot](https://github.com/kil-x/SQLmap-Command-Builder/blob/master/images/1.png)
+![Screenshot](https://github.com/kil-x/SQLmap-Command-Builder/blob/master/images/2.png)
+![Screenshot](https://github.com/kil-x/SQLmap-Command-Builder/blob/master/images/3.png)
+![Screenshot](https://github.com/kil-x/SQLmap-Command-Builder/blob/master/images/4.png)
+![Screenshot](https://github.com/kil-x/SQLmap-Command-Builder/blob/master/images/5.png)
 
 ----
 
@@ -25,7 +25,7 @@ USE
 links
 ----
   ```
-* Download: https://github.com/kil-x/SQLMapCn-Gui
+* Download: https://github.com/kil-x/SQLmap-Command-Builder
   ```
 
 Thanks
