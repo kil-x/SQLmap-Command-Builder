@@ -28,9 +28,6 @@ links
 * Download: https://github.com/kil-x/SQLMapCn-Gui
   ```
 
-
-
-##Thanks
-
+Thanks
 ----
 * F。
