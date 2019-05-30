@@ -3053,7 +3053,7 @@ def main():
     root = Tk()
     s = ttk.Style()
     s.theme_use('clam')
-    root.title('SQLMapCn-Gui')
+    root.title('SQLmap Command Builder')
     root.columnconfigure(0, weight=1)
     root.rowconfigure(0, weight=1)
     root.resizable(True, False)
