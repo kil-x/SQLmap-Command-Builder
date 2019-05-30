@@ -17,13 +17,13 @@ SQLMapCn-Gui基于sqlmap制作Gui界面，只需填写目的地址、勾选参�
 ----
 
 
-使用
+USE
 ----
   ```
 使用python 2.7  运行 SQLMapCn.pyw
   ```
 
-链接
+links
 ----
   ```
 * Download: https://github.com/kil-x/SQLMapCn-Gui
