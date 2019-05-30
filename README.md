@@ -33,5 +33,5 @@ SQLMapCn-Gui基于sqlmap制作Gui界面，只需填写目的地址、勾选参�
 Thanks for the support
 ----
   ```
-F.
+F。
   ```
