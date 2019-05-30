@@ -1,9 +1,8 @@
 # SQLMapCn-Gui
 
 
-sqlmap是一个开源的渗透测试工具，可以自动检测和利用SQL注入漏洞并接管数据库服务器。 
+SQLMapCn-Gui基于sqlmap制作Gui界面，仅需填写目的地址、勾选参数，构造语句，即可开始自动检测和利用SQL注入漏洞并接管数据库服务器。
 
-SQLMapCn-Gui基于sqlmap制作Gui界面，仅需填写目的地址、勾选参数，点击构造语句，点击开始即可开始测试sql注入。
 
 Screenshot
 ----
@@ -30,8 +29,8 @@ links
   ```
 
 
-Thanks for the support
+
+##Thanks
+
 ----
-  ```
-F。
-  ```
+* F。
